@@ -6,5 +6,5 @@ and forward finite difference approximations. Built into the code is the
 stability analysis from the paper, and should be able to handle any two
 smoth functions bounded way from zero that are given, and even most piecewise
 functions that are bounded away from zero. If there are questions about the 
-code or the paper feel free to email me at
+code or the paper feel free to email me at thanks!
 manuelarturosantana@gmail.com
