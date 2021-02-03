@@ -8,3 +8,5 @@ smoth functions bounded way from zero that are given, and even most piecewise
 functions that are bounded away from zero. If there are questions about the 
 code or the paper feel free to email me at thanks!
 manuelarturosantana@gmail.com
+
+*[Link to the paper](https://arxiv.org/abs/2008.12815)
